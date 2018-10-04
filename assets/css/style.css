@@ -1,0 +1,107 @@
+#page
+ {
+ 	width:100%;
+ 	margin:auto;
+ }
+header
+{
+	text-align: center;
+	padding-top: 30px;
+	background-image: url(../images/paillettes_long_dorees.png);
+	font-size: 30px;
+	background-color:#1D543D;
+}
+a.header
+{
+	text-decoration: none;
+	font-size: 25px;
+	color: #FFFFFF;
+}
+nav ul
+{
+	display: flex;
+	flex-wrap: wrap;	
+}
+nav li
+{
+	margin-right: 15px;
+	margin-left: 15px;
+}
+nav a
+{
+	font-size:0.8em;
+	text-align: center;
+	text-decoration: none;
+}
+body
+{
+	color :#1D543D;
+	font-weight: bold;
+	font-family: times new roman;
+	font-style: italic;
+	text-align: center;
+	text-align: justify;
+	background-color: #f5f4ef;
+	overflow: auto;
+}
+h1
+{
+	color: #1D543D;
+	text-align: center;
+	font-size: 25px;
+	margin-bottom: 20px;
+	margin-top: 50px;
+}
+p
+{
+	text-align: center;
+	width: 1000px;
+	margin: auto;
+	font-size: 20px;
+
+}
+a
+{
+	color: #FFFFFF;
+}
+a:hover
+{
+	color: gold;
+}
+img.#photocover
+{
+	width: 100%;
+	margin: auto;
+}
+.decoratingimage
+{
+	float: right;
+}
+.gift
+{
+	border: solid;
+	margin: 50px 50px 50px 50px;
+	padding: 20px 20px 20px 20px;
+	width: 600px;
+}
+#whishlist
+{
+	flex-wrap: wrap;
+	display: flex;
+}
+.floatingimage
+{
+	width: 200px;
+	max-width: 100%;
+	height: auto;
+}
+footer
+{
+	text-align: center;
+	margin:100px 100px 100px 100px;
+}
+footer a
+{
+	color: #1D543D;
+	text-decoration: none;
+}
